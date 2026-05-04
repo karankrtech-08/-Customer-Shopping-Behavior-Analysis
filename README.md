@@ -1,5 +1,5 @@
 # -Customer-Shopping-Behavior-Analysis
-# 👨🏻‍💻Customer Behavior Data Analyst Portfolio Project
+# 👨🏻‍💻Customer Behavior Data Analyst Project
 This project represents a complete, industry standard, end-to-end data analytics workflow, designed to mirror the real responsibilities of professional analysts in modern business environments. The project encompasses all critical stages of data analysis, from data preparation and modeling to insight generation, visualization, and reporting.
 
 This project is perfect for:
@@ -18,7 +18,7 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
 ✅ Report and Presentation: Write a clear project report summarizing your key findings and business recommendations. Prepare a presentation that visually communicates insights and actionable recommendations to stakeholders.
 
-![Project Workflow](https://github.com/user-attachments/assets/workflow.png)
+![Project Workflow](https://github.com/user-attachments/assets/workflow.png.png)
 
 ## 🛠️ How to Use This Project
 
@@ -60,8 +60,6 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
       - Create project report
    
       - Build presentation deck 
-  
-7. **Follow along with the YouTube video for full walkthrough. 👨‍💼*
 
 ## 👨‍💻 About the Author
 Hey, I’m Karan Kumar, a Data Analyst.
